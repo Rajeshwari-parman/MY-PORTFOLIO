@@ -1,18 +1,5 @@
 # MY-PORTFOLIO
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: RAJESHWARI B
-
-INTERN ID: CT4MVTW
-
-DOMAIN: SOFTWARE DEVELOPMENT
-
-DURATION: 4 MONTHS (16 WEEKS)
-
-MENTOR: NEELA SANTOSH
-
-
 🧾 Personal Portfolio Website
 
 As part of my internship at CodTech, I developed a static personal portfolio website using HTML, CSS, and JavaScript. This responsive and professionally designed site serves as a digital resume, showcasing my skills, projects, educational background, and contact details. The primary goal was to create a user-friendly interface that highlights my strengths as a developer while offering a clean, interactive browsing experience for potential employers and clients.
